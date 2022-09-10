@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "120571399660",
+    "project_id": "elearning-6e19e",
+    "storage_bucket": "elearning-6e19e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120571399660:android:2932bf9af02fdcbf2644c9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120571399660-hc86dsi6e4278o7q7kdoi398sssha76u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO89eRkvxZJZwL6GuB1ukP8N0IUrBWCos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120571399660-hc86dsi6e4278o7q7kdoi398sssha76u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
